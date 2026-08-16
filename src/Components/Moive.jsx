@@ -58,7 +58,7 @@ const Movie = ({
     <section className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 py-6 sm:py-8">
       {/* Genre Filter Tabs / Section Buttons */}
       <div className="mb-6">
-        <div className="flex items-center gap-2 overflow-x-auto pb-3 scrollbar-none">
+        <div className="flex items-center gap-2 overflow-x-auto pb-2 no-scrollbar">
           {POPULAR_GENRES.map((genre) => {
             const cleanName = genre.name.replace(/^[^a-zA-Z0-9]+/, "");
             return (
