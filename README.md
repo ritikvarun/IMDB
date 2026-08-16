@@ -14,6 +14,10 @@
 
 [Live Demo](https://ritikvarun.github.io/IMDB) • [Features](#-key-features) • [Tech Stack](#-tech-stack) • [Installation](#-getting-started)
 
+<br/>
+
+<img src="./preview.png" alt="IMDb CinemaHub Preview" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+
 </div>
 
 ---
